@@ -4,8 +4,8 @@ WazaBee is an attack allowing to transmit and receive 802.15.4 packets by divert
 
 This repository contains the Command Line Interface allowing to interact with a board embedding WazaBee PoC. It requires to build and flash the WazaBee PoC firmware. Two development boards are currently supported:
 
-* **Adafruit nRF52832 Feather** (*nRF52832* from Nordic Semiconductors)
-* **Texas Instruments CC1352-R1** (*CC1352-R1* from Texas Instruments)
+* **Adafruit nRF52832 Feather** (*nRF52832* from Nordic Semiconductors): [repository](https://github.com/RCayre/wazabee_nrf52)
+* **Texas Instruments CC1352-R1** (*CC1352-R1* from Texas Instruments): [repository](https://github.com/RCayre/wazabee_ti)
 
 # Installation
 
