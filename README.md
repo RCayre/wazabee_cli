@@ -1,4 +1,4 @@
-#Presentation
+# Presentation
 
 WazaBee is an attack allowing to transmit and receive 802.15.4 packets by diverting Bluetooth Low Energy chips. This software is a basic proof of concept (PoC) implementing the two communication primitives used by this attack. This source code is not dedicated to an offensive usage, and it is only provided for research purposes. It is released as an open-source project under MIT license.
 
@@ -7,7 +7,7 @@ This repository contains the Command Line Interface allowing to interact with a 
 * **Adafruit nRF52832 Feather** (*nRF52832* from Nordic Semiconductors)
 * **Texas Instruments CC1352-R1** (*CC1352-R1* from Texas Instruments)
 
-#Installation
+# Installation
 
 * Install scapy:
 ```
